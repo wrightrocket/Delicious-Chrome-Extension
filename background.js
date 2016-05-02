@@ -155,7 +155,7 @@ addDelicious = function(conf) {
 		notes = c.notes || "",
 		w = c.width || 500,
 		h = c.height || 463,
-		deliciousUrl = c.deliciousUrl || "https://delicious.com/save?v=5&noui&url=",
+		deliciousUrl = c.deliciousUrl || https://del.icio.us/save?v=5&noui&url=",
 		fullUrl,
 		autoClose = c.autoClose || true;
 
